@@ -275,6 +275,9 @@ _Guijin Wang, Xinghao Chen\*, Hengkai Guo\*, Cairong Zhang_
 
 ### 2023 CVPR
 
+##### • A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image. [\[PDF\]](https://arxiv.org/abs/2304.03635)  [\[Code\]](https://github.com/ChanglongJiangGit/A2J-Transformer)
+_Changlong Jiang, Yang Xiao, Cunlin Wu, Mingyang Zhang, Jinghong Zheng, Zhiguo Cao, Joey Tianyi Zhou_
+
 ##### • Hand Avatar: Free-Pose Hand Animation and Rendering from Monocular Video. [\[PDF\]](https://arxiv.org/pdf/2211.12782.pdf) [\[Project\]](https://seanchenxy.github.io/HandAvatarWeb/)
 _Xingyu Chen, Baoyuan Wang Heung-Yeung, Shum_
 
@@ -308,8 +311,6 @@ _Hoseong Cho, Chanwoo Kim, Jihyeon Kim, Seongyeong Lee, Elkhan Ismayilzada, Seun
 ##### • ACR: Attention Collaboration-based Regressor for Arbitrary Two-Hand Reconstruction. [\[PDF\]](https://arxiv.org/pdf/2303.05938)  [\[Project\]](https://zhengdiyu.github.io/ACR-page/) [\[Code\]](https://github.com/ZhengdiYu/Arbitrary-Hands-3D-Reconstruction)
 _Zhengdi Yu, Shaoli Huang, Chen Fang, Toby P. Breckon, Jue Wang_
 
-##### • A2J-Transformer: Anchor-to-Joint Transformer Network for 3D Interacting Hand Pose Estimation from a Single RGB Image. [\[PDF\]](https://arxiv.org/abs/2304.03635)  [\[Code\]](https://github.com/ChanglongJiangGit/A2J-Transformer)
-_Changlong Jiang, Yang Xiao, Cunlin Wu, Mingyang Zhang, Jinghong Zheng, Zhiguo Cao, Joey Tianyi Zhou_
 
 ### 2023 Others
 
