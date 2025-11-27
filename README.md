@@ -161,6 +161,10 @@ _Xiaoming Deng\*, Shuo Yang\*, Yinda Zhang\*, Ping Tan, Liang Chang, Hongan Wang
 
 ### TPAMI / IJCV
 
+##### • \[2025 TPAMI\] 3D Hand Pose Estimation via Articulated Anchor-to-Joint 3D Local Regressors. [\[PDF\]](https://ieeexplore.ieee.org/document/11165058/)
+
+_Changlong Jiang, Yang Xiao, Jinghong Zheng, Haohong Kuang, Cunlin Wu, Mingyang Zhang, Zhiguo Cao, Min Du, Joey Tianyi Zhou, Junsong Yuan_
+
 ##### • \[2024 TPAMI\] EvHandPose: Event-Based 3D Hand Pose Estimation With Sparse Supervision. [\[PDF\]](https://ieeexplore.ieee.org/document/10478195/)
 
 _Jianping Jiang, Jiahe Li, Baowen Zhang, Xiaoming Deng, Boxin Shi_
